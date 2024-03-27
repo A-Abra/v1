@@ -352,11 +352,14 @@ form a:hover {
 }
 
 @media screen and (max-width: 600px) {
+    section {
+        position: relative;
+    }
+
     .nav-logo {
         margin-right: auto; /*ensures that the logo aligned left, allowing other elements to adjust properly without causing horizontal scrolling.*/
         margin-left: -160px;
     }
-
 
     .skill-list {
         display: grid;
