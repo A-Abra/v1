@@ -30,16 +30,16 @@ export const Education = () => {
       <div className='education-info'>
         <div className='education-text'>
           <h1 className='degree'>
-            Bachelor of Computer Science
+            B.S. in Computer Science
           </h1><br />
           <h2 className='uni-name'>
             New Jersey Institute of Technology, Newark, NJ
           </h2><br />
           <h2 className='graduation-date'>
-            Expected graduation in 2024
+            2019-2024
           </h2><br />
           <h2 className='gpa-section'>
-            GPA <span className='gpa-score'>3.47</span>
+            GPA <span className='gpa-score'>3.5</span>
           </h2><br />
           <p className='courses-taken'>
             <span className='course-heading'>Courses undertaken:</span> Advanced Data Structures and Algorithms,

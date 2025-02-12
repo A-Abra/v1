@@ -1,5 +1,8 @@
 import React, { useEffect, useRef } from 'react';
 import { IoEyeSharp, IoLibrarySharp } from "react-icons/io5";
+import signInMock from './../images/Pixel 8 Pro Sign in.png';
+import signUpMock from './../images/Pixel 8 Pro Sign up.png';
+import splashMock from './../images/Pixel 8 Pro Splash screen.png';
 
 export const Works = () => {
   const worksRef = useRef(null);
@@ -75,6 +78,17 @@ export const Works = () => {
           <p className='project-name' style={{ display: 'inline-block', verticalAlign: 'middle', marginLeft: '5px', marginTop: '4px' }}>
             Tripless
           </p>
+          <div className='mockup-container'>
+            <div className='splash-container'>
+              <img className='splash-image' src={splashMock} alt="Splash Mockup" />
+            </div>
+            <div className='signIn-container'>
+              <img className='signIn-image' src={signInMock} alt="SignIn Mockup" />
+            </div>
+            <div className='signUp-container'>
+              <img className='signUp-image' src={signUpMock} alt="SignUp Mockup" />
+            </div>
+          </div>
         </div><br />
         <p className='project-description'>
           A travel planning app that simplifies the process of organizing excursions. Through curated packages,

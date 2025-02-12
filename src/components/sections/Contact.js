@@ -44,7 +44,7 @@ export const Contact = () => {
           <IoLogoLinkedin />
         </a>
       </div>
-      <h5 className='copyright'>© 2024 Anosh Abraham. All rights reserved.</h5>
+      <h5 className='copyright'>© 2025 Anosh Abraham. All rights reserved.</h5>
     </div>
   );
 };

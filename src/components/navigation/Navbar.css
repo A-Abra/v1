@@ -204,6 +204,24 @@ section {
     font-size: 17px;
 }
 
+.splash-container {
+    .splash-image {
+        width: 90px;
+    }
+}
+
+.signIn-container {
+    .signIn-image {
+        width: 90px;
+    }
+}
+
+.signUp-container {
+    .signUp-image {
+        width: 90px;
+    }
+}
+
 /* education section */
 .education {
     visibility: hidden;
