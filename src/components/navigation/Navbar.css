@@ -242,6 +242,29 @@ section {
     animation: fadeIn 2s ease-in-out 1s forwards;
 }
 
+.mockup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+}
+
+.splash-container,
+.signIn-container,
+.signUp-container {
+    flex: 1; /* Distributes equal width */
+    max-width: 40%; /* Prevents images from stretching too much */
+}
+
+.splash-image,
+.signIn-image,
+.signUp-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
 .uni-image-container {
     margin-right: 85px;
 }
@@ -376,7 +399,8 @@ form a:hover {
     }
 
     .nav-logo {
-        margin-right: auto; /*ensures that the logo aligned left, allowing other elements to adjust properly without causing horizontal scrolling.*/
+        margin-right: auto;
+        /*ensures that the logo aligned left, allowing other elements to adjust properly without causing horizontal scrolling.*/
         margin-left: -160px;
     }
 
