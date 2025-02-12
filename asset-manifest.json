@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/v1/static/css/main.be5d35b0.css",
-    "main.js": "/v1/static/js/main.9d1ace02.js",
+    "main.css": "/v1/static/css/main.47bba7ff.css",
+    "main.js": "/v1/static/js/main.8cc1702a.js",
     "static/js/453.534db5b8.chunk.js": "/v1/static/js/453.534db5b8.chunk.js",
+    "static/media/Pixel 8 Pro Splash screen.png": "/v1/static/media/Pixel 8 Pro Splash screen.f211acc00db0482e9141.png",
+    "static/media/Pixel 8 Pro Sign up.png": "/v1/static/media/Pixel 8 Pro Sign up.7973b7e4fd7cb2d8191f.png",
+    "static/media/Pixel 8 Pro Sign in.png": "/v1/static/media/Pixel 8 Pro Sign in.65b96d9423a27391a53c.png",
     "static/media/university.png": "/v1/static/media/university.b97fd91e1454454f8dde.png",
     "index.html": "/v1/index.html",
-    "main.be5d35b0.css.map": "/v1/static/css/main.be5d35b0.css.map",
-    "main.9d1ace02.js.map": "/v1/static/js/main.9d1ace02.js.map",
+    "main.47bba7ff.css.map": "/v1/static/css/main.47bba7ff.css.map",
+    "main.8cc1702a.js.map": "/v1/static/js/main.8cc1702a.js.map",
     "453.534db5b8.chunk.js.map": "/v1/static/js/453.534db5b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be5d35b0.css",
-    "static/js/main.9d1ace02.js"
+    "static/css/main.47bba7ff.css",
+    "static/js/main.8cc1702a.js"
   ]
 }
